@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Axy0n
+
+## Me 👀
+I am French but I know some basic English or I use translation. I love using Linux, jailbreaking iPhones, console games, and rooting Android devices.
+
+## My language 💻
+I'm learning C, HTML, and Python.
+
+## My project  🔭
+I don't really have any serious projects yet. Check out my repo below.
+
 
 <!--
 **axy0n-qli/axy0n-qli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
