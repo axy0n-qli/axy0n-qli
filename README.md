@@ -7,8 +7,9 @@ I am French but I know some basic English or I use translation. I love using Lin
 I'm learning C, HTML, and Python.
 
 ## My project  🔭
-I don't really have any serious projects yet. Check out my repo below.
-
+- **[liquid-glass-hyprlock-confg](https://github.com/axy0n-qli/liquid-glass-hyprlock-confg)**
+- **[Apple-electrocution-bootanimation](https://github.com/axy0n-qli/Apple-electrocution-bootanimation)**
+- **[fastfetch-ios](https://github.com/axy0n-qli/fastfetch-ios)**
 
 <!--
 **axy0n-qli/axy0n-qli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
