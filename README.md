@@ -7,7 +7,7 @@ I am French but I know some basic English or I use translation. I love using Lin
 I'm learning C, HTML, and Python.
 
 ## My project  🔭
-- **[liquid-glass-hyprlock-confg](https://github.com/axy0n-qli/liquid-glass-hyprlock-confg)**
+- **[liquid-glass-hyprlock-config](https://github.com/axy0n-qli/liquid-glass-hyprlock-config)**
 - **[Apple-electrocution-bootanimation](https://github.com/axy0n-qli/Apple-electrocution-bootanimation)**
 - **[SudoDroid](https://github.com/axy0n-qli/SudoDroid)**
 
