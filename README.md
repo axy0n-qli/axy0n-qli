@@ -10,6 +10,7 @@ I'm learning C, HTML, and Python.
 - **[liquid-glass-hyprlock-config](https://github.com/axy0n-qli/liquid-glass-hyprlock-config)**
 - **[Apple-electrocution-bootanimation](https://github.com/axy0n-qli/Apple-electrocution-bootanimation)**
 - **[SudoDroid](https://github.com/axy0n-qli/SudoDroid)**
+- **[BadBuilder-linux](https://github.com/axy0n-qli/BadBuilder-linux)**
 
 <!--
 **axy0n-qli/axy0n-qli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
