@@ -8,7 +8,7 @@ I'm learning C, HTML, and Python.
 
 ## My project  🔭
 - **[liquid-glass-hyprlock-config](https://github.com/axy0n-qli/liquid-glass-hyprlock-config)**
-- **[Apple-electrocution-bootanimation](https://github.com/axy0n-qli/Apple-electrocution-bootanimation)**
+- **[Apple-electrocution-bootanimation-pixel](https://github.com/axy0n-qli/Apple-electrocution-bootanimation)**
 - **[SudoDroid](https://github.com/axy0n-qli/SudoDroid)**
 - **[BadBuilder-linux](https://github.com/axy0n-qli/BadBuilder-linux)**
 
